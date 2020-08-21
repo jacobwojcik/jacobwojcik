@@ -1,6 +1,6 @@
-## Hi there I am Jakub 👋
+## Hi there 👋
 
-## Technologies :wrench::
+## My technologies :wrench::
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)]()
 [![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white)]()
